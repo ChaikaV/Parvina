@@ -1,2 +1,1 @@
-# Parvina
-ya pidor
+=
